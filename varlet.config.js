@@ -29,7 +29,7 @@ module.exports = {
     },
     header: {
       i18n: null,
-      github: 'https://github.com/love-fe',
+      github: 'https://github.com/love-fe/love-vue3-ui',
     },
     menu: [
       {
@@ -67,7 +67,7 @@ module.exports = {
     },
     header: {
       i18n: null,
-      github: 'https://github.com/love-fe',
+      github: 'https://github.com/love-fe/love-vue3-ui',
     },
   },
 }
